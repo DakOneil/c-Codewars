@@ -56,3 +56,21 @@ public static class Kata
   }
   // Write a public static method "greet" that returns "hello world!"
 }
+
+
+
+
+
+
+// Implement a function which convert the given boolean value into its string representation.
+
+// using System;
+
+public class kata
+{
+  public static string boolean_to_string(bool b)
+  {
+    return b ? "True" : "False";
+  //Please don't delete me!
+  }
+}
